@@ -42,16 +42,6 @@
 
   <br><br>
 
-  <!-- GITHUB STATS -->
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="Streak Stats">
-
-  <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-
-  <br><br>
-
   <!-- FUN SECTION -->
   <h3>🌟 Currently</h3>
   <ul>
