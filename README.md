@@ -4,16 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Hi%20I'm%20Halil%20Ibrahim%20👋&fontSize=55&animation=fadeIn&fontAlignY=35" alt="header">
 
   <!-- BIO -->
-  <h2>Backend Developer | .NET & FastAPI Specialist | Building Secure & Scalable APIs</h2>
+  <h2>Backend Developer | Always Learning & Building Cool Stuff</h2>
 
   <p>
     Computer Engineering Graduate from Izmir Bakırçay University (GPA: 3.0/4.0)<br>
-    Passionate about clean architecture, high-performance backends, and turning complex problems into robust solutions.
+    Passionate about clean architecture, high-performance backends, and enterprise level applications.
   </p>
 
   <!-- CONTACT / SOCIAL -->
   <a href="mailto:marangozibrahim49@gmail.com"><img src="https://img.shields.io/badge/Email-marangozibrahim49@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
-  <a href="https://github.com/Marangozibrahim"><img src="https://img.shields.io/badge/GitHub-Marangozibrahim-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/halil-ibrahim-marangoz-566bb4193"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
   <a href="tel:+905523534935"><img src="https://img.shields.io/badge/Phone-552%20353%204935-00C853?style=for-the-badge" alt="Phone"></a>
 
   <br><br>
@@ -41,51 +41,9 @@
 
   <br><br>
 
-  <!-- FEATURED PROJECTS -->
-  <h3>Featured Projects</h3>
-
-  <table>
-    <tr>
-      <td><strong>User Auth API</strong></td>
-      <td>FastAPI + PostgreSQL + Redis + Celery • Argon2 + JWT + Google OAuth2 • Dockerized</td>
-    </tr>
-    <tr>
-      <td><strong>Library Management API</strong></td>
-      <td>ASP.NET Core + EF Core + MS SQL • CQRS + Onion Architecture • Full test coverage</td>
-    </tr>
-    <tr>
-      <td><strong>Geolocation Market Analysis App</strong></td>
-      <td>.NET Core Backend • AI-powered location profitability tool • Team project</td>
-    </tr>
-  </table>
-
-  <br>
-
   <!-- EXPERIENCE -->
   <h3>Experience</h3>
   <p><strong>Software Development Intern</strong> — Izmir Bakırçay University (Feb 2025 – May 2025)<br>
   Built backend infrastructure for two AI-driven applications using .NET Core, EF Core & MS SQL</p>
-
-  <br>
-
-  <!-- GITHUB STATS -->
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marangozibrahim&theme=tokyonight&hide_border=true" alt="Streak Stats">
-
-  <br><br>
-
-  <!-- LANGUAGES -->
-  <h3>Languages</h3>
-  <p>🇹🇷 Turkish — Native  🇬🇧 English — Fluent</p>
-
-  <br>
-
-  <!-- FOOTER -->
-  <p>
-    <strong>Always open to new opportunities, collaborations, or just a quick chat about backend architecture ☕</strong><br>
-    Feel free to reach out!
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=Marangozibrahim&color=0A66C2&style=for-the-badge&label=Profile%20Views" alt="Profile Views">
 
 </div>
