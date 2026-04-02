@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Hi%20I'm%20Halil%20Ibrahim%20Marangoz%20👋&fontSize=55&animation=fadeIn&fontAlignY=35" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Hi%20I'm%20Halil%20Ibrahim%20👋&fontSize=55&animation=fadeIn&fontAlignY=35" alt="header">
 
   <!-- BIO -->
-  <h2>🚀 Backend Developer | .NET & FastAPI Specialist | Building Secure & Scalable APIs</h2>
+  <h2>Backend Developer | .NET & FastAPI Specialist | Building Secure & Scalable APIs</h2>
 
   <p>
     Computer Engineering Graduate from Izmir Bakırçay University (GPA: 3.0/4.0)<br>
@@ -19,7 +19,7 @@
   <br><br>
 
   <!-- TECH STACK -->
-  <h3>🛠️ Tech Stack</h3>
+  <h3>Tech Stack</h3>
 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C#">
@@ -42,7 +42,7 @@
   <br><br>
 
   <!-- FEATURED PROJECTS -->
-  <h3>🔥 Featured Projects</h3>
+  <h3>Featured Projects</h3>
 
   <table>
     <tr>
@@ -62,22 +62,20 @@
   <br>
 
   <!-- EXPERIENCE -->
-  <h3>💼 Experience</h3>
+  <h3>Experience</h3>
   <p><strong>Software Development Intern</strong> — Izmir Bakırçay University (Feb 2025 – May 2025)<br>
   Built backend infrastructure for two AI-driven applications using .NET Core, EF Core & MS SQL</p>
 
   <br>
 
   <!-- GITHUB STATS -->
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Marangozibrahim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <h3>GitHub Stats</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marangozibrahim&theme=tokyonight&hide_border=true" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marangozibrahim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
   <br><br>
 
   <!-- LANGUAGES -->
-  <h3>🌍 Languages</h3>
+  <h3>Languages</h3>
   <p>🇹🇷 Turkish — Native  🇬🇧 English — Fluent</p>
 
   <br>
