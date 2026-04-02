@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Hi%20I'm%20[Your%20Name]%20👋&fontSize=60&animation=fadeIn&fontAlignY=35" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Hi%20I'm%20Halil%20Ibrahim%20👋&fontSize=60&animation=fadeIn&fontAlignY=35" alt="header">
 
   <!-- BIO -->
-  <h2>🚀 Full-Stack Developer | Open-Source Enthusiast | Coffee Addict ☕</h2>
+  <h2> Backend Developer | Open-Source Enthusiast | Coffee Addict </h2>
 
   <p>
     Building the future one line of code at a time.<br>
@@ -39,24 +39,5 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" alt="Supabase">
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="Framer Motion">
-
-  <br><br>
-
-  <!-- FUN SECTION -->
-  <h3>🌟 Currently</h3>
-  <ul>
-    <li>🔥 Learning Rust</li>
-    <li>🚀 Shipping a new SaaS every month</li>
-    <li>☕ 4 cups of coffee per day (minimum)</li>
-  </ul>
-
-  <br>
-
-  <!-- FOOTER -->
-  <p>
-    <strong>✉️ Let's connect!</strong> I'm always up for a chat about tech, startups, or the meaning of life.
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=0A66C2&style=for-the-badge&label=Profile%20Views" alt="Profile Views">
 
 </div>
