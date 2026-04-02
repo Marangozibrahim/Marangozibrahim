@@ -30,7 +30,6 @@
   
   <h4>Frameworks & Libraries</h4>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="ASP.NET Core">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET">
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="EF Core">
   <img src="https://img.shields.io/badge/SQLAlchemy-FF4C00?logo=sqlalchemy&logoColor=white&style=for-the-badge" alt="SQLAlchemy">
