@@ -52,6 +52,12 @@
   <img src="https://img.shields.io/badge/SlowAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="SlowAPI">
   <img src="https://img.shields.io/badge/Serilog-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="Serilog">
   <img src="https://img.shields.io/badge/FluentValidation-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="FluentValidation">
+
+  <h4>AWS Services</h4>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white&style=for-the-badge" alt="EC2">
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge" alt="S3">
+  <img src="https://img.shields.io/badge/Amazon%20VPC-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="VPC">
   
   <h4>Architectures & Patterns</h4>
   <img src="https://img.shields.io/badge/Clean%20Architecture-0078D4?logo=azuredevops&logoColor=white&style=for-the-badge" alt="Clean Architecture">
