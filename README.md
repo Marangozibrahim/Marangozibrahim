@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Hi%20I'm%20Halil%20Ibrahim%20👋&fontSize=55&animation=fadeIn&fontAlignY=35" alt="header">
 
   <!-- BIO -->
-  <h2>Backend Developer | Always Learning & Building Cool Stuff</h2>
+  <h2>Full-Stack Developer | Always Learning & Building Cool Stuff</h2>
 
   <p>
     Computer Engineering Graduate from Izmir Bakırçay University<br>
