@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-FF4C00?logo=sqlalchemy&logoColor=white&style=for-the-badge" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/MediatR-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="MediatR">
   <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=for-the-badge" alt="Celery">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS">
 
   <h4>Databases</h4>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
