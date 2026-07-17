@@ -27,11 +27,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
 
   <h4>Frameworks & Libraries</h4>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET">
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="EF Core">
-  <img src="https://img.shields.io/badge/SQLAlchemy-FF4C00?logo=sqlalchemy&logoColor=white&style=for-the-badge" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/MediatR-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="MediatR">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI">
+  <img src="https://img.shields.io/badge/SQLAlchemy-FF4C00?logo=sqlalchemy&logoColor=white&style=for-the-badge" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=for-the-badge" alt="Celery">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS">
@@ -39,8 +39,8 @@
   <h4>Databases</h4>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="MS SQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis">
 
   <h4>Tools & Cloud</h4>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
